@@ -11,6 +11,7 @@
 
 #include <string>
 #include <vector>
+#include <random>
 #include "helper_functions.h"
 
 
@@ -116,6 +117,9 @@ class ParticleFilter
     
     // Vector of weights of all particles
     std::vector<double> weights; 
+    
+    // Create random engine to use for sampling
+    std::default_random_engine gen;
 };
 
 #endif  // PARTICLE_FILTER_H_
