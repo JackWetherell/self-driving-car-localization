@@ -16,3 +16,5 @@ The goal of this project is to use particle filters to localize a vehicle in a s
 3. ./run.sh
 
 Then run the simulator and load up the kidnapped vehicle environment.
+
+![](demo.gif)
