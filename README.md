@@ -1,6 +1,10 @@
 # Self Driving Car: Localization
+
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
 The goal of this project is to use particle filters to localize a vehicle in a sparse landmark map.
 
+![](demo.gif)
 
 ## Requirments
 - gcc >= 5.4
@@ -16,5 +20,3 @@ The goal of this project is to use particle filters to localize a vehicle in a s
 3. ./run.sh
 
 Then run the simulator and load up the kidnapped vehicle environment.
-
-![](demo.gif)
