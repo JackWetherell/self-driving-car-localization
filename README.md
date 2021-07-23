@@ -1,4 +1,4 @@
-# Self Driving Car: Localization
+# Localization
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
@@ -14,9 +14,8 @@ The goal of this project is to use particle filters to localize a vehicle in a s
 - [Udacity Simulator](https://github.com/udacity/self-driving-car-sim/releases).
 
 
-## Build Instructions
+## Usage
 1. ./clean.sh
 2. ./build.sh
 3. ./run.sh
-
-Then run the simulator and load up the kidnapped vehicle environment.
+4. run the simulator and load up the kidnapped vehicle environment.
